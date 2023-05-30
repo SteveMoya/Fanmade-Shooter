@@ -1,6 +1,7 @@
 # Fanmade de The Division 💥
+![cleaners-the-division](https://github.com/SteveMoya/Fanmade-Shooter/assets/114698709/732fe9f8-d61e-405b-a641-cb86201f46cb)
 
-![Fanmade-Shooter](https://github.com/SteveMoya/Fanmade-Shooter/assets/114698709/391171a4-2e32-4e59-a986-198261657646)
+
 
 
 ## Ejemplo en vivo
@@ -22,6 +23,15 @@ En este proyecto aprendi sobre la utilizacion de background image, y como coloca
 
 ## IDE 👨‍💻
 ![VisualStudioCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## Vista previa del proyecto
+Si quieres hechas un vistazo al proyecto.
+
+![fanmade-shooter vercel app_ (2)](https://github.com/SteveMoya/Fanmade-Shooter/assets/114698709/0eac62a2-8b9c-4e8f-aaed-53b8fd75880c)
+
+
+<br>
+
 
 ## Instalación 🏗️
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
